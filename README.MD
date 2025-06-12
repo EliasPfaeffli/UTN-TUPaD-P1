@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Pfaeffli - Zealaya, Elías 
+- **Nombre:** Pfaeffli - Zelaya, Elías 
 - **Comisión:** M2025-8
 
 ## 📂 Descripción del Repositorio  
