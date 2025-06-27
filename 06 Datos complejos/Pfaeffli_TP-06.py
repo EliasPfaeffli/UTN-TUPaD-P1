@@ -98,4 +98,3 @@ def contar_digito(numero, digito):
 num = int(input("Ingrese un número entero positivo: "))
 d = int(input("Ingrese un dígito a buscar (0-9): "))
 print(f"El dígito {d} aparece {contar_digito(num, d)} veces en {num}")
-
